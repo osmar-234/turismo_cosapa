@@ -1,0 +1,77 @@
+html,body {
+	height:100%;
+}
+H1  { font-size : 40pt;
+ font-family :bernard MT condensed;  
+text-align : center; 
+color: white;
+}
+header {
+		
+	display:block;
+	background:#286af0;
+	padding:0px 0px;
+}
+section {
+	width: 100%;
+	background: #ccc;
+	float: left;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+}
+
+aside {
+        margin-tpo:0em;
+        text-align: center;
+	float: right;
+	border: 0px solid blue;
+	width: 50%;
+	border: 0px solid red;
+	/*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
+	/*visibility: hidden;*/
+}
+
+figure {
+	display: table; margin: 0 auto;
+}
+
+
+#menu{
+padding: 0;
+}
+#menu li{
+  display: inline;
+}
+#menu li a {
+font-size:12px;
+font-family: Bernard MT Condensed;
+text-decoration: none;
+float: left;
+padding: 14px;
+background-color:navy ;
+color: white;
+}
+#menu li a:hover{
+background-color: cyan;
+margin-top:-2px;
+padding-bottom: 13pt;
+}
+a:link, a:visited {
+    background-color: red;
+    
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: white;
+}
+P {font-size : 25pt; 
+font-family: monotype corsiva; 
+text-align: left;
+color: white; 
+margin: 25px;
+}

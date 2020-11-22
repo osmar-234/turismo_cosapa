@@ -1,0 +1,36 @@
+H1  { font-size : 40pt;
+ font-family : stencil,bernard MT condensed; 
+text-decoration : underline;  
+text-align : center; 
+background-color : orangered;
+color: white;
+}
+H2  { font-size : 38pt;
+ font-family : forte; 
+text-decoration : underline;  
+text-align : center; 
+background-color : darkorange;
+color: white;
+}
+IMG {width: 900px; 
+height: 600px ; 
+margin: 10px; 
+} 
+P {font-size : 20pt; 
+font-family: script MT Bold; 
+text-align: center;
+background-color: khaki; 
+margin: 25px;
+color: wlack;
+} 
+a:hover { color: white;
+}
+a:link {color: tomato;
+}
+a { color: tomato;
+font-family: impact;}
+BODY  { 
+background-color : white;   
+font-family : arial; 
+color: black;
+}

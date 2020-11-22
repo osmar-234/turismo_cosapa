@@ -1,0 +1,100 @@
+body{font-size : 15px;
+background: blue;
+font-family: algerian;
+width: 1200px;
+margin: auto;
+color: white;
+}
+H1  { font-size : 40pt;
+ font-family : algerian;   
+text-align : center; 
+}
+#logo{
+background: url(logo.gif) no-repeat right;
+background-size:35%;
+padding:20em 0em 0em 0em;
+text-transform: uppercase;
+}
+#logo h1 a{
+margin: 0em;
+padding:0em 0em 0em 0em;
+latter-spacing: -.1em;
+text-decoration: none;
+font-weight:bold;
+color: navy;
+}
+#subtitulo{
+padding: 0em;
+margin-top: -1em;
+font-size: 2em;
+font-weight: bold;
+color: deepskyblue;
+}
+#menu li{
+display: inline-block;
+float: left;
+margin-right: 0.12em;
+padding: 1em 1.5em;
+background: #178EAE;
+box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.25);
+text-decoration: none;
+text-shadaw: 1px 1px 0px #0C749C;
+text-transform: uppercase;
+font-size: 0.90em;
+color: white;
+}
+#section{
+width: 1150px;
+padding: 20px 40px;
+background: black;
+height: 290px;
+}
+#imagen{
+margin-tpo:0em;
+width: 330px;
+height: 250px;
+text-align: center;
+}
+#subtitulo2{
+font- family: tahoma, geneva, sans-serif;
+font-size: 25px;
+color: cyan;
+}
+
+#pie{
+text-align: center;
+position: relative;
+margin-top: -50px;
+height: 40px; 
+padding:5px 0px;
+clear: both;
+background: #286af0;
+color: #fff;
+}
+#menu{
+padding: 0;
+}
+#menu li{
+  display: inline;
+}
+#menu li a {
+font-family: Castellar;
+font-size:12px;
+text-decoration: none;
+float: left;
+padding: 14px;
+background-color: navy;
+color: white;
+}
+#menu li a:hover{
+background-color: white;
+margin-top:-2px;
+padding-bottom: 13pt;
+}
+P {font-size : 15pt; 
+font-family: monotype corsiva; 
+text-align: center;
+color: white; 
+margin: 25px;
+}
+}

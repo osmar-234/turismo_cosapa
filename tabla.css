@@ -1,0 +1,26 @@
+table, th, td {  
+  border: 1px solid black;
+}
+aside {
+        margin-tpo:0em;
+        text-align: center;
+	float: center;
+	border: 0px solid blue;
+	width: 50%;
+	border: 0px solid red;
+	/*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
+	/*visibility: hidden;*/
+}
+a:link, a:visited {
+    float:center;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
+ 

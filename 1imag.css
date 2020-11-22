@@ -1,0 +1,35 @@
+H1  { font-size : 38pt;
+ font-family : algerian,bernard MT condensed; 
+text-decoration : underline;  
+text-align : center; 
+background-color : yellow;
+}
+P {font-size : 20pt; 
+font-family: monotype corsiva; 
+text-align: left;
+color: black; 
+margin: 25px;
+}
+IMG {width: 300px; 
+height: 255px ; 
+margin: 10px;
+
+} 
+TD  { font-size : 18pt; 
+font-family : pristina; 
+text-align : center;
+background-color: lime;
+border:#7FFF00;
+width: 300;
+color: black; 
+} 
+a:hover { color: slateblue;
+}
+a:link {color: indigo;
+}
+a { color:indigo ;}
+BODY  { 
+background-color : gold;   
+font-family : lucida calligraphy; 
+color : white;
+}

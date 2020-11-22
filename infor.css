@@ -1,0 +1,51 @@
+H1  { font-size : 40pt;
+ font-family : stencil,bernard MT condensed; 
+text-align : center; 
+background-color : #FF5733;
+}
+H2 {font-size : 18pt; 
+font-family: lucida fax; 
+text-align: center;
+background-color: lightsalmon; 
+margin: 25px;
+} 
+
+IMG {width: 900px; 
+height: 600px ; 
+margin: 10px; 
+} 
+#ladoderecho{
+margin:-5px 20px 0px 0px;
+float: right;
+width: 65%;
+text-align:justify;
+color:blue;
+}
+aside {
+        margin-tpo:0em;
+        text-align: center;
+	float: center;
+	border: 0px solid blue;
+	width: 50%;
+	border: 0px solid red;
+	/*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
+	/*visibility: hidden;*/
+}
+a:link, a:visited {
+    float:center;
+    background-color: magenta;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: pink;
+}
+
+BODY  { 
+background-color : crimson;   
+font-family : arial; 
+color : white;
+}

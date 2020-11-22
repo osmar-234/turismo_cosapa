@@ -1,0 +1,22 @@
+H1  { font-size : 40pt;
+ font-family : algerian; 
+text-decoration : underline;  
+text-align : center; 
+background-color : blue;
+}
+P {font-size : 20pt; 
+font-family: monotype corsiva; 
+text-align: center;
+color: cyan; 
+margin: 25px;
+}
+IMG {width: 800px; 
+height: 600px ; 
+margin: 20px; 
+} 
+BODY  { 
+background-color : navy;
+background-image : url("");  
+font-family : arial; 
+color : white;
+}
